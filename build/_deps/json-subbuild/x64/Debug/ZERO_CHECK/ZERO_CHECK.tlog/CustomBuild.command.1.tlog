@@ -1,0 +1,10 @@
+^C:\USERS\MOHAMMAD HUZAIFA\ONEDRIVE\CPP_CHATSERVER\BUILD\_DEPS\JSON-SUBBUILD\CMAKEFILES\D4510B3F2A7F392D7BB4E91A7969E5EA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/mohammad huzaifa/OneDrive/CPP_CHATSERVER/build/_deps/json-subbuild" "-BC:/Users/mohammad huzaifa/OneDrive/CPP_CHATSERVER/build/_deps/json-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/mohammad huzaifa/OneDrive/CPP_CHATSERVER/build/_deps/json-subbuild/json-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

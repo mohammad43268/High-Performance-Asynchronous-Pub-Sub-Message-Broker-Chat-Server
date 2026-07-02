@@ -1,0 +1,19 @@
+# 1. Initialize your local folder as a git repository (if you haven't already)
+git init
+
+# 2. Stage all your current project files
+git add .
+
+# 3. Commit your changes locally
+git commit -m "feat: integrate async broker into existing repository"
+
+# 4. Point your local project to your existing GitHub repository
+# (Replace the URL below with the link you just copied from your existing repo)
+git remote add origin https://github.com/your-username/your-existing-repo.git
+
+# 5. Safety Step: Pull any existing files from GitHub first to avoid conflicts
+# (This merges your existing repo history with this new project history smoothly)
+git pull origin main --allow-unrelated-histories
+
+# 6. Push your project files up to your existing repository
+git push -u origin main

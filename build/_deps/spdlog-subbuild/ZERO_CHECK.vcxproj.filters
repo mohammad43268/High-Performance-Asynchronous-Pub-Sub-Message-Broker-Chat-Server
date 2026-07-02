@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mohammad huzaifa\OneDrive\CPP_CHATSERVER\build\_deps\spdlog-subbuild\CMakeFiles\16364440d1853beb2c5e5a93a4c09559\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C19E9FC3-54F2-31B5-965E-26EDC1E3B6AB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

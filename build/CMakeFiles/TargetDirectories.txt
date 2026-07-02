@@ -1,0 +1,6 @@
+C:/Users/mohammad huzaifa/OneDrive/CPP_CHATSERVER/build/CMakeFiles/chat_server.dir
+C:/Users/mohammad huzaifa/OneDrive/CPP_CHATSERVER/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mohammad huzaifa/OneDrive/CPP_CHATSERVER/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/mohammad huzaifa/OneDrive/CPP_CHATSERVER/build/_deps/json-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mohammad huzaifa/OneDrive/CPP_CHATSERVER/build/_deps/spdlog-build/CMakeFiles/spdlog.dir
+C:/Users/mohammad huzaifa/OneDrive/CPP_CHATSERVER/build/_deps/spdlog-build/CMakeFiles/ALL_BUILD.dir
