@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/Users/mohammad huzaifa/OneDrive/CPP_CHATSERVER/build/cmake_install.cmake",
-		"C:/Users/mohammad huzaifa/OneDrive/CPP_CHATSERVER/build/_deps/json-build/cmake_install.cmake",
-		"C:/Users/mohammad huzaifa/OneDrive/CPP_CHATSERVER/build/_deps/spdlog-build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
